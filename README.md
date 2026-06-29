@@ -1,8 +1,8 @@
 # 🧪 Skin Toxicity Predictor
 
-**[English]** A machine learning-based web application for predicting skin irritation and skin sensitization potential from molecular SMILES input.
+A machine learning-based web application for predicting skin irritation and skin sensitization potential from molecular SMILES input.
 
-**[한국어]** SMILES 입력 기반 피부 독성(자극성 / 감작성) 예측 머신러닝 웹 애플리케이션입니다.
+SMILES 입력 기반 피부 독성(자극성 / 감작성) 예측 머신러닝 웹 애플리케이션입니다.
 
 컴퓨터 독성학 기말 프로젝트 | Final Project for Computational Toxicology Course (2025)
 
@@ -119,18 +119,18 @@ skin-toxicity-app/
 
 ---
 
-## 🛠 Tech Stack / 기술 스택
+## 🛠 Tech Stack
 
 | Component | Library |
 |---|---|
 | UI Framework | [Flet](https://flet.dev) 0.85 |
-| Cheminformatics / 화학정보학 | [RDKit](https://www.rdkit.org) |
-| Machine Learning / 머신러닝 | [scikit-learn](https://scikit-learn.org) 1.8 |
-| Deployment / 배포 | [Render.com](https://render.com) |
+| Cheminformatics | [RDKit](https://www.rdkit.org) |
+| Machine Learning | [scikit-learn](https://scikit-learn.org) 1.8 |
+| Deployment | [Render.com](https://render.com) |
 
 ---
 
-## 📄 QMRF Documentation / QMRF 문서
+## 📄 QMRF Documentation
 
 ECHA QMRF v2.1 표준을 따르는 QSAR 모델 보고서(QMRF)가 각 모델별로 작성되어 있습니다.  
 Endpoint 정의, 적용 가능 영역(AD), 검증 통계, 기계론적 해석(OECD 5원칙) 포함.
@@ -143,9 +143,3 @@ Endpoint 정의, 적용 가능 영역(AD), 검증 통계, 기계론적 해석(OE
 
 This tool is intended for **research and educational purposes only**. Predictions should not be used as the sole basis for regulatory decisions.
 
----
-
-## 👤 Author / 개발자
-
-**김서율** · 20251269  
-Computational Toxicology, 2025
