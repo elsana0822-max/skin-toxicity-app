@@ -4,7 +4,7 @@ A machine learning-based web application for predicting skin irritation and skin
 
 SMILES 입력 기반 피부 독성(자극성 / 감작성) 예측 머신러닝 웹 애플리케이션입니다.
 
-컴퓨터 독성학 기말 프로젝트 | Final Project for Computational Toxicology Course (2025)
+컴퓨터 독성학 프로젝트 | Project for Computational Toxicology Course (2026)
 
 ---
 
