@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: skin-toxicity-predictor
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app_web.py
+    envVars:
+      - key: PORT
+        value: 8080
+    plan: free
