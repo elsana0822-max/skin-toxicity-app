@@ -1,16 +1,3 @@
-Chemical_Name,SMILES,CAS_Number
-Ethanol,CCO,64-17-5
-Acetic acid,CC(=O)O,64-19-7
-Benzene,c1ccccc1,71-43-2
-Triethylamine,CCN(CC)CC,121-44-8
-Propylene glycol,CC(O)CO,57-55-6
-Heptanal,CCCCCCC=O,111-71-7
-Isopropyl myristate,CCCCCCCCCCCCCC(=O)OC(C)C,110-27-0
-4-Methylthio benzaldehyde,CSc1ccc(C=O)cc1,3446-89-7
-Toluene,Cc1ccccc1,108-88-3
-Phenol,Oc1ccccc1,108-95-2
-Methanol,CO,67-56-1
-Formaldehyde,C=O,50-00-0
-Acetone,CC(=O)C,67-64-1
-Chloroform,ClC(Cl)Cl,67-66-3
-Dichloromethane,ClCCl,75-09-2
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d01a4834aeee8944d380969aa99467db77cf1a2a01818c163c77efd2d923a4
+size 486
